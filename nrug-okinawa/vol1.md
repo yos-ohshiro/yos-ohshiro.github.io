@@ -2,12 +2,13 @@
 
 ![vol1](./vol1.png)
 
-https://nrug-okinawa.connpass.com/event/308306/
+<a href="[URL](https://nrug-okinawa.connpass.com/event/308306/)" target="_blank">connpassページ</a>
+
 
 ## 会場のご案内
 
 * 株式会社SEEC（シーク） 沖縄県那覇市泉崎1-20-6 那覇ビジネスセンター7F
-* https://maps.app.goo.gl/qY7m92fgatNSBpX17
+* <a href="https://maps.app.goo.gl/qY7m92fgatNSBpX17" target="_blank">Google Map</a>
 
 入口が少し分かりづらいので下を参考にお越しください
 
@@ -17,15 +18,12 @@ https://nrug-okinawa.connpass.com/event/308306/
 
 ## お願い
 
-:::note info
 ハンズオンでSlackを使うため、事前にSlackのユーザー作成（会社ユーザーじゃなく個人ユーザーでOK）とNRUGのSlack参加をお願いします
-:::
 
 * Slackのユーザーは下のURLから作成できます
-    * https://slack.com/get-started#/create
+    * <a href="https://slack.com/get-started#/create" target="_blank">Slackユーザー作成</a>
 
 下のURLからジョインお願いします。
 
-* https://join.slack.com/t/nrug/shared_invite/zt-y0de03za-0vCEQdEoGjKXoOrdrHlRzA
+* <a href="https://join.slack.com/t/nrug/shared_invite/zt-y0de03za-0vCEQdEoGjKXoOrdrHlRzA" target="_blank">https://join.slack.com/t/nrug/shared_invite/zt-y0de03za-0vCEQdEoGjKXoOrdrHlRzA</a>
     * チャンネル `# okinawa` 
-

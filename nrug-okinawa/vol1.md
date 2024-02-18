@@ -2,7 +2,7 @@
 
 ![vol1](./vol1.png)
 
-<a href="[URL](https://nrug-okinawa.connpass.com/event/308306/)" target="_blank">connpassページ</a>
+<a href="https://nrug-okinawa.connpass.com/event/308306/" target="_blank">connpassページ</a>
 
 
 ## 会場のご案内

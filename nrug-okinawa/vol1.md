@@ -12,9 +12,9 @@
 
 入口が少し分かりづらいので下を参考にお越しください
 
-![地図](地図.png)
+![地図](地図0.png)
 
-![入口](入口.png)
+![入口](入口0.png)
 
 ## お願い
 
@@ -27,3 +27,8 @@
 
 * <a href="https://join.slack.com/t/nrug/shared_invite/zt-y0de03za-0vCEQdEoGjKXoOrdrHlRzA" target="_blank">https://join.slack.com/t/nrug/shared_invite/zt-y0de03za-0vCEQdEoGjKXoOrdrHlRzA</a>
     * チャンネル `# okinawa` 
+
+可能であれば事前に New Relic のフリーアカウント作成をお願いします。（当日も案内します）
+
+* <a href="https://newrelic.com/jp/sign-up-japan" target="_blank">New Relic 無料サインアップ</a>
+    * 会社メールアドレスじゃなく個人メールアドレスでOKです

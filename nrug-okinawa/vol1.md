@@ -1,8 +1,8 @@
 # NRUG沖縄支部 (New Relic User Group) Vol.1 ハンズオン！＠那覇
 
-![vol1](./vol1_risuke.png)
+![vol1](./vol1_risuke1.png)
 
-<a href="https://example.com/" target="_blank">connpassページ</a>
+<a href="https://nrug-okinawa.connpass.com/event/311329/" target="_blank">connpassページ</a>
 
 
 ## 会場のご案内

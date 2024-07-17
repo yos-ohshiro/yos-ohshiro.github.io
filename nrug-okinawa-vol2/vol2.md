@@ -1,5 +1,8 @@
 # NRUG沖縄支部 Vol.2 乾杯！事例紹介と悩み相談会＠那覇
 
+日時：2024年8月2日(金)18:30開場 18:50開始
+
+
 ![vol2](./vol2.png)
 
 <a href="https://nrug-okinawa.connpass.com/event/322608/" target="_blank">connpassページ</a>
